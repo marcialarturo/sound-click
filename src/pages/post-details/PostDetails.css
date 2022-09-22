@@ -1,0 +1,85 @@
+.root-pet-details {
+    flex-grow: 1;
+    min-height: 80vh;
+    margin-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+.grid-container {
+    text-align: center;
+    background-color: #e3f9fb6e;
+}
+
+.img {
+    width: 70%;
+    margin: auto;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    justify-content: space-between;
+    display: inline-flex;
+}
+
+.like-btn {
+    text-transform: capitalize;
+}
+
+.details-text {
+    text-align: initial;
+    padding-left: 15%;
+}
+
+.wallet-btn {
+    float: right;
+    margin-bottom: 1rem;
+    background-color: #c329c8;
+    font-weight: 900;
+}
+
+.code-hash {
+    width: 80%;
+    padding: 1rem;
+    word-break: break-word;
+}
+
+.text-field {
+    width: 80%;
+}
+
+.inline {
+    display: inline;
+    margin-top: 3rem;
+}
+
+.go-home-btn {
+    background-color: transparent;
+    font-size: larger;
+    margin-top: 2rem;
+    color: blue;
+    text-decoration: underline !important;
+}
+
+.comments {
+    width: calc(100% + 24px);
+    padding-top: 1rem;
+}
+
+.comments-container {
+    width: calc(100% + 24px);
+}
+
+.feedTweet2 {
+    width: calc(100% + 24px);
+    /* max-width: 100%; */
+    padding: 5px;
+    color: black;
+    justify-content: space-between;
+    display: flex;
+}
+
+.tweetImg-comment {
+    width: 60%;
+}

@@ -1,0 +1,172 @@
+.desc1 {
+    width: 90%;
+}
+
+.landing-container {
+    background-color: black;
+    color: #fff;
+}
+
+.landing-header {
+    position: relative;
+    padding-top: 7rem;
+    width: 100%;
+}
+
+._2Z0rs ._2SHVO {
+    font-size: 32px;
+    letter-spacing: 0;
+}
+
+
+/*  new */
+
+.root {
+    flex-grow: 1;
+}
+
+.featuresImg {
+    max-width: 90%;
+}
+
+.media {
+    height: 180px;
+}
+
+.paper {
+    padding: 20px 10px;
+    text-align: 'center';
+}
+
+.steps {
+    width: 250px;
+    height: 250px;
+}
+
+.gridList {
+    flex-wrap: nowrap;
+    transform: 'translateZ(0)';
+}
+
+
+/* .title {
+    color: white;
+} */
+
+.welcome {
+    font-size: 4rem;
+    padding-top: 4rem;
+    text-align: center;
+}
+
+.description {
+    font-size: 1.5rem;
+    text-align: initial;
+    padding-bottom: 5rem;
+}
+
+.getStarted {
+    font-size: 3rem;
+    padding-top: 7rem;
+}
+
+.verticalLine {
+    display: inline-block;
+    border-left: 3px solid #ccc8c8;
+    margin: 0 10px;
+    height: 75px;
+}
+
+.featureSection {
+    background: #1a4c7d;
+    color: white;
+    position: relative;
+    margin-top: 10rem;
+    min-height: 100%;
+    padding-bottom: 60px;
+}
+
+.featureSection:before {
+    content: '';
+    position: absolute;
+    width: 10%;
+    height: 17em;
+    background: #007af3;
+    left: 0;
+    top: -4em;
+}
+
+.featureSection:after {
+    content: '';
+    position: absolute;
+    width: 200px;
+    height: 20em;
+    /* background: url(./../../img/dots.svg) no-repeat; */
+    left: 4.5em;
+    top: 2em;
+}
+
+.partnerships {
+    /* background-color: #006BD6; */
+    background-color: #1a4c7d;
+    padding-bottom: 5rem;
+}
+
+.partnershipsTittle {
+    color: white;
+    font-size: 3rem;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+
+/*  new */
+
+._1I9n9 {
+    height: 400px;
+}
+
+._3y8M5 {
+    background: rgba(0, 0, 0, 0.5);
+    height: 250px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.img-reponsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+p.title {
+    position: absolute;
+    top: 75px;
+    left: 0;
+    text-align: center;
+    font-size: 38px;
+    width: 100%;
+    /* color: #fff; */
+}
+
+.header-title {
+    font-size: 60px;
+    letter-spacing: 0;
+    line-height: 65px;
+    margin-top: 60px;
+    max-width: none;
+    padding-top: 5rem;
+}
+
+._9K28q {
+    font-size: 20px;
+    line-height: 30px;
+    max-width: 380px;
+    /* color: #fff; */
+    font-weight: 500;
+    letter-spacing: 0.25px;
+    line-height: 24px;
+    margin: 0;
+}
