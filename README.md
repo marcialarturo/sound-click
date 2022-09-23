@@ -9,7 +9,8 @@ Sound Click was created for you; the writer, the performer, the beat maker, the 
 An Ecosystem built to support the use and the growth of Music projects by enabling participants to actively get involved in the network via theoretical and interactive educational content provided by the active communities of established Music projects.
 
 ### Valist Link
-https://app.valist.io/4metaverse-marcial-yahoo/sound-click
+- https://app.valist.io/4metaverse-marcial-yahoo/sound-click
+- https://bafybeiev72g5zkb5yuxihrqwdwiwbk5hs6fczg6bn2hk44k4tbxzxpk3fu.ipfs.gateway.valist.io/
 
 ### Video Demo
 - https://youtu.be/rMWj2jTl59M
